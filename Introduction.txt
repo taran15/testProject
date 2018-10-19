@@ -1,4 +1,4 @@
-This is a sample introduction for my webpage. My website contains the information about uber.
+This is a sample introduction for my website. My website contains the information about uber.
 I mentioned the useful aspects of uber.
 In this website, I added some more features for the application.
 By providing the special feature for handicapped I tried to make it
